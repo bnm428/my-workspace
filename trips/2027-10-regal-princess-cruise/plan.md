@@ -35,12 +35,11 @@ All of these are on Google Calendar with reminders.
 | 4 | Tue Oct 12 | **Portland, ME** | Lobster roll, Portland Head Light, peak fall color |
 | 5 | Wed Oct 13 | **Saint John, NB** 🇨🇦 | Bay of Fundy tides (Reversing Falls). Time zone is +1 hour |
 | 6 | Thu Oct 14 | **Halifax, NS** 🇨🇦 | Peggy's Cove lighthouse, waterfront boardwalk |
-| 7 | Fri Oct 15 | **At sea** | Spa, nice dinner. A good night for the anniversary celebration |
+| 7 | Fri Oct 15 | **At sea** | Spa, trivia, a group specialty dinner |
 | 8 | Sat Oct 16 | **New York** (disembark) | Off the ship by ~9am. Book flights home after ~1pm |
 
-**Why this trip works:** mid-October is peak fall color in New England, it's
-cruise-only time with no kids, and it's close to your 20th anniversary year.
-Tell Princess about the anniversary when you check in.
+**Why this trip works:** mid-October is peak fall color in New England, and
+it's adult-only time with family.
 
 **Group tip:** with 3 couples, you don't have to do everything together. Pick
 2–3 "all together" moments (a group excursion, one dinner, the sailaway) and
@@ -117,7 +116,6 @@ watch flight prices starting in early 2027.
 
 **One month out (~Sep 9)**
 - [ ] Online check-in in the Princess app
-- [ ] Tell Princess about the anniversary
 - [ ] Set up a mail hold and an international phone plan for Canada
 
 **Week of**
@@ -125,8 +123,29 @@ watch flight prices starting in early 2027.
 
 ---
 
+## Cabins & upgrades
+
+The cabins are close together for now (confirm the numbers). The plan is to
+upgrade if a good opportunity comes up.
+
+- **Watch the price.** If the fare drops before final payment, call Princess or
+  your agent and ask for a reprice or an upgrade.
+- **Upgrade offers** usually show up by email or in your Princess account in the
+  months before sailing. Some are "bid"-style offers, so decide on your top price ahead of time.
+- **Upgrading moves your cabin.** Ask Princess to keep all three couples close
+  together, or agree as a group to upgrade together.
+- **Upgrades are cheapest before June 11** (final payment). Changes after that can
+  come with penalties.
+
+| Couple | Cabin # | Category | Notes |
+|---|---|---|---|
+| Bobby & Michelle | | | |
+| Cousin & wife | | | |
+| Uncle & aunt | | | |
+
+---
+
 ## Open questions
 - [ ] Exact ports and times (confirm in your Princess account)
-- [ ] Cabin numbers for each couple. Are they near each other?
-- [ ] Is this the anniversary trip? What's the actual date?
+- [ ] Fill in the cabin numbers above
 - [ ] Is anyone in the group flying from somewhere other than SLC?
